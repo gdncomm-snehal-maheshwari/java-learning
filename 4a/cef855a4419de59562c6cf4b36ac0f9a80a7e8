@@ -1,0 +1,16 @@
+training/.idea/vcs.xml
+  h_a00a27c9fca8dc 1-6
+training/src/exception.java
+  h_a00a27c9fca8dc 1-15
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "4acef855a4419de59562c6cf4b36ac0f9a80a7e8",
+  "prompts": {},
+  "humans": {
+    "h_a00a27c9fca8dc": {
+      "author": "Snehal Maheshwari <snehal.maheshwari14@gmail.com>"
+    }
+  }
+}
