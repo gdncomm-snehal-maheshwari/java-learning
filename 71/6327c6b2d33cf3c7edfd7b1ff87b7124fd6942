@@ -1,0 +1,36 @@
+training/.gitignore
+  h_a00a27c9fca8dc 1-30
+training/.idea/.gitignore
+  h_a00a27c9fca8dc 1-10
+training/.idea/misc.xml
+  h_a00a27c9fca8dc 1-6
+training/.idea/modules.xml
+  h_a00a27c9fca8dc 1-8
+training/src/GenericMyList.java
+  h_a00a27c9fca8dc 1-126
+training/src/MyList.java
+  h_a00a27c9fca8dc 1-125
+training/src/MyListEmployee.java
+  h_a00a27c9fca8dc 1-153
+training/src/bank/bank.java
+  h_a00a27c9fca8dc 1-13
+training/src/bank/hdfc.java
+  h_a00a27c9fca8dc 1-13
+training/src/bank/icici.java
+  h_a00a27c9fca8dc 1-13
+training/src/bank/transaction.java
+  h_a00a27c9fca8dc 1-16
+training/training.iml
+  h_a00a27c9fca8dc 1-11
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "716327c6b2d33cf3c7edfd7b1ff87b7124fd6942",
+  "prompts": {},
+  "humans": {
+    "h_a00a27c9fca8dc": {
+      "author": "Snehal Maheshwari <snehal.maheshwari14@gmail.com>"
+    }
+  }
+}
